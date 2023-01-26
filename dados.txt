@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Kelly 
+-Profissão: Analista de sistema
+-Cidade: Itapetininga
+-O que faz nas horas vaga: Assitir filmes e séries
+-Feedback sobre o curso Qualidade de Software: Simplismente maravilhoso
+-Feedback sobre a plataforma de estudo da EBAC: Uma das melhores plataforma de cursos online
+
+Obrigado!!!
+
+
